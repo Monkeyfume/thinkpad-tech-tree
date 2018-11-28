@@ -48,4 +48,4 @@
 Sources: Thinkwiki.org, Thinkwiki.de, /r/ThinkPad, Notebookcheck, Lenovo PSREF
 Text to ASCII art generated with http://patorjk.com/software/taag/
 
-v1.2 by /u/Monkeyfume
+v1.2.1
