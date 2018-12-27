@@ -4,40 +4,64 @@
    | | | | | | | | | |   <|  __/ (_| | (_| |_  | |\__, |\__, / __/_____/ __/| |_| | |\__, |
    |_| |_| |_|_|_| |_|_|\_\_|   \__,_|\__,_(_) |_|  /_/   /_/_____|   |_____|\___/|_|  /_/ 
 .
-1992
+1992                                            300                 700T    700/C
 .
-1993
+1993                                            ??                  710T    ???
+.      !!!PRE-1996 IS CURRENTLY INCOMPLETE!!!
+1994                                            360CE/CSE           730T    755CE/CS    755CD           800
 .
-1994
+1995                            ??      340CSE              ???             755CEX              701C/CS
 .
-1995
+.                                       345C/CS         370C        ??      755CX/CV    755CDV          
+.        #
+.       PC110                       ?           365C/CD/CS/CSD      730TE   760C/CD                     850     820
 .
-1996
-.
-1997
-.
-1998
-.
-1999
-.
-2000
-.
-2001
-.
-2002
-.
-2003
-.
-2004                                                                                                                                    R51     R50e                                    
-.                                        ↑       ↑       ↑                               │               │                               │       │               #       #
-2005                                    X32     X41     X41T                            T43             T43p                            R52     R51e            Z60t    Z60m†
-.                                        │       │       │                               │               │                               │       │               │       ├───────┐  
-2006                                    X60     X60s    X60T                            T60             T60p                            R60     R60e            Z61t    Z61m†   Z61p
-.                                        │       │       │                               │               │                               ├───────┘
-2007                                    X61     X61s    X61T                            T61             T61p                            R61*                             
-.                        #               │       │       │                       ┌───────┴───────┐       ├───────┬───────┐               ├───────┐       #           #           #
-2008                    X300/1          X200    X200s    │                      T400            T500    W500    W700    W700ds          R500    R400    SL500       SL400       SL300
-.                        │               │       │       │                       ├───────┐       │       │       │       │               │       │       │           │           │
+1996                                     │      365E/ED                     760L/LD                     851     821/822/823
+.                                        │       │                           │                           ├───────┘
+.                                       560     365X/XD                     760E/ED/EL/ELD              860
+.                                        │       │                           │
+1997                                     │       │                          760XL/XD
+.                                        │       ├───────┬───────┐           │
+.                                       560E    310/D   380/D   385D        765L/D
+.                                        │       │       │       │           │
+.                                        │      310E/ED 380E/ED 385ED       770
+.                                        │       └───────┤       │           │           #
+1998                                    560X            380X    385X        770E/ED     600
+.                                        │               │       │           │           │
+.                                       560Z            380Z    390         770X        600E
+.                                ↑       │               └───────┤           │           │
+1999                            240     570                     390E        770Z         │
+.                                │       │                       │           └───────────┤
+.                                │       │                      390X                    600X
+.                                │       │                                               │                               #       #
+2000                            240X    570E                                            T20                             A20m    A20p
+.                                │└──────┤                                               │                       ┌───────┤       │
+.                                │      X20                                             T21                     A21e    A21m    A21p
+.                                │       ├───────┐                                       │                       │       │       │
+2001                            S30     X21     TransNote                               T22                     A22e    A22m    A22p
+.                                │       │                                               │                       └───────┤       │       #
+.                               S31     X22                                             T23                             A30     A30p    R30
+.                                        │                                               │                               │       │       │
+2002                                    X23                                              │                               │       │      R31
+.                                        │                                               │                               │       │       │
+.                                       X24                                             T30                             A31     A31p    R32
+.                                        │                                               │                               ├───────┘       │
+.                                       X30                                              │                               │               │
+.                                        │                                               ├───────────────┐               │               │
+2003                                    X31                                             T40             T40p            G40             R40
+.                                        │                                               │               │               │       ┌───────┼───────┐
+.                                        │                                              T41             T41p             │      R50p    R50     R40e
+.                                        ├───────┐                                       │               │               │               │       │
+2004                                     │      X40                                     T42             T42p            G41             R51     R50e                                    
+.           IBM ThinkPad                 │       ├───────────────┐                       │               │                               │       │               #       #
+2005    ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─           X32     X41             X41T                    T43             T43p                            R52     R51e            Z60t    Z60m/e
+.          Lenovo ThinkPad               │       │               │                       │               │                               │       │               │       ├───────┐  
+2006                                    X60     X60s            X60T                    T60             T60p                            R60     R60e            Z61t    Z61m/e  Z61p
+.                                        │       ├───────┐       │                       │               │                               ├───────┘
+2007                                    X61     X61s    Res.Ed. X61T                    T61             T61p                            R61*                             
+.                        #               │       │               │               ┌───────┴───────┐       ├───────┬───────┐               ├───────┐       #           #           #
+2008                    X300/1          X200    X200s            │              T400            T500    W500    W700    W700ds          R500    R400    SL500       SL400       SL300
+.                        │               │       │       ┌───────┘               ├───────┐       │       │       │       │               │       │       │           │           │
 2009                     │               │       │      X200T                    │      T400s    │       │       │       │               │       │      SL510       SL410        │
 .                        │               │       │       │                       │       │       │       │       │       │               │       │       │           │           │           #           #
 2010                     │              X201*   X201s   X201T                   T410*   T410s   T510*   W510    W701    W701ds          L512    L412    Edge 15     Edge 14     Edge 13     Edge 11     X100e
@@ -57,8 +81,8 @@
 2017    X1T-2   X1Y-2   X1C-5           X270    A275    A475    25AE    T470   T470p    T470s   T570    P51s            P51     P71     L570    L470    E570+E575   E470+E475               11e‡-4              Y.370           13-2
 .        │       │       │       #       │       │       │               ├───────┘       │       │       │       #       │       │       │       │       │           │                       │                   ├───────┐┌──────┤  
 2018    X1T-3   X1Y-3   X1C-6   X1E     X280    A285    A485            T480            T480s   T580    P52s    P1      P52     P72     L580    L480    E580+E585   E480+E485               11e‡-5              X380Y   L380Y   L380
-.                                                                                                                                                                │           ├───────────┐                                       │       │
-2019                                                                                                                                                            E590        E490        E490s                                   L390Y   L390
+.                                                                                                                                                        │           ├───────────┐                                       │       │
+2019                                                                                                                                                    E590        E490        E490s                                   L390Y   L390
 .
 - the "s" suffix indicates design goals for thinness, lighter weight, and usually more premium materials
 - the "p" suffix indicates a variant with potential for a more powerful processor
@@ -68,11 +92,10 @@
 - "↑" indicates the branch continues from older IBM models
 - "#" indicates the start of a new branch
 * also includes models with the "i" suffix, indicating weaker processors than the base models
-† also includes models with the "e" suffix, indicating weaker processors than the base models; in the case of Z60m and Z61m, "e" is used in place of "m"
 ‡ four variants of the ThinkPad 11e were sold in each generation: Windows, Chromebook, Yoga (Windows), and Yoga (Chromebook)
 
 Sources: Thinkwiki.org, Thinkwiki.de, /r/ThinkPad, Notebookcheck, Lenovo PSREF
 Text to ASCII art generated with the program found at http://patorjk.com/software/taag/
 Code page 437 single-line box drawing characters: ─ ┌ ┐ └ ┘ ├ ┤ ┬ ┴ ┼ ↑
 
-v1.2.2
+v2018-12-26
