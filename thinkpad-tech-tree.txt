@@ -52,8 +52,8 @@
 2017    X1T-2   X1Y-2   X1C-5           X270    A275    A475    25AE    T470    T470p   T470s   T570    P51s            P51     P71     L570    L470    E570+E575   E470+E475                   11e‡-4          Y.370           13-2                    T70
 .        │       │       │       #       │       │       │               ├───────┘       │       │       │       #       │       │       │       │       │           ├───────────────────┐       │               ├───────┐┌──────┤                       │
 2018    X1T-3   X1Y-3   X1C-6   X1E     X280    A285    A485            T480            T480s   T580    P52s    P1      P52     P72     L580    L480    E580+E585   E480+E485           R480    11e‡-5          X380Y   L380Y   L380                    X210
-.                                                                                                                                                        │           ├───────────┐       │                               │       │
-2019                                                                                                                                                    E590        E490        E490s   R490                            L390Y   L390
+.                │       │                                                                                                                               │           ├───────────┐       │                               │       │
+2019            X1Y-4   X1C-7                                                                                                                           E590        E490        E490s   R490                            L390Y   L390
 .
 - the "s" suffix indicates design goals for thinness, lighter weight, and usually more premium materials
 - the "p" suffix indicates a variant with potential for a more powerful processor
