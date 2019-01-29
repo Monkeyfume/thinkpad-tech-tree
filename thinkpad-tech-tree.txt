@@ -55,6 +55,7 @@
 .                │       │       │       │       │               │       │       ┌───────┤       │                                       │       │       │           ├───────────┐       │                       │       │       │
 2019            X1Y-4   X1C-7   X1E-2   X390    X395            T495    T490    T495s   T490s   T590                                    L590    L490    E590        E490        E490s   R490                    X390Y   L390Y   L390
 .
+- 2019 models are currently UNRELEASED!
 - the "s" suffix indicates design goals for thinness, lighter weight, and usually more premium materials
 - the "p" suffix indicates a variant with potential for a more powerful processor
 - the "u" suffix in the T430u could mean "ultrabook"; discontinued due to widespread ULV CPU adoption in the Haswell generation
@@ -69,4 +70,4 @@ Sources: Thinkwiki.org, Thinkwiki.de, /r/ThinkPad, Notebookcheck, Lenovo PSREF
 Text to ASCII art generated with the program found at http://patorjk.com/software/taag/
 Code page 437 single-line box drawing characters: ─ ┌ ┐ └ ┘ ├ ┤ ┬ ┴ ┼ ↑
 
-v2019-01-03
+v2019-01-29
