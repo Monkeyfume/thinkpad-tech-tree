@@ -53,7 +53,7 @@
 .        │       │       │       #       │       │               │       ├───────┘       │       │       │       #       │       │       │       │       │           ├───────────────────┐       │               ├───────┐┌──────┤                       │
 2018    X1T-3   X1Y-3   X1C-6   X1E-1   X280    A285            A485    T480            T480s   T580    P52s    P1      P52     P72     L580    L480    E580+E585   E480+E485           R480    11e‡-5          X380Y   L380Y   L380                    X210
 .                │       │       │       │       │               │       │       ┌───────┤       │                                       │       │       │           ├───────────┐       │                       │       │       │
-2019            X1Y-4   X1C-7   X1E-2   X390    X395            T495    T490    T495s   T490s   T590                                    L590    L490    E590        E490        E490s   R490                    X390Y   L390Y   L390
+2019            X1Y-4   X1C-7   X1E-2   X390    X395            T495    T490/HE T495s   T490s   T590                                    L590    L490    E590        E490        E490s   R490                    X390Y   L390Y   L390
 .
 - 2019 models are currently UNRELEASED!
 - the "s" suffix indicates design goals for thinness, lighter weight, and usually more premium materials
