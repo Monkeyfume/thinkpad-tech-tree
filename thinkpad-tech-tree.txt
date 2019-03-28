@@ -72,4 +72,4 @@ Sources: Thinkwiki.org, Thinkwiki.de, /r/ThinkPad, Notebookcheck, Lenovo PSREF
 Text to ASCII art generated with the program found at http://patorjk.com/software/taag/
 Code page 437 single-line box drawing characters: ─ ┌ ┐ └ ┘ ├ ┤ ┬ ┴ ┼ ↑
 
-v2019-01-29
+v2019-03-28
